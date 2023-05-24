@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservices/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/userService/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/hotel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/ratingService/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/ServiceRegistory/pom.xml" />
+        <option value="$PROJECT_DIR$/microservices/ConfigurationServer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="corretto-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
